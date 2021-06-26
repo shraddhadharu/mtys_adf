@@ -1,0 +1,9 @@
+{
+	"name": "mtys-d-01-df",
+	"location": "West Europe",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4c90013b-2236-48ee-b79d-91db96542598",
+		"tenantId": "aa61c317-7465-40f2-b770-725df0459b8c"
+	}
+}
